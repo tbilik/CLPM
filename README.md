@@ -1,6 +1,8 @@
 # CLPM (Command Line Power Menu)
 A simple command line power menu written in the one & only BASH.
 
+![screenshot](https://raw.githubusercontent.com/tbilik/CLPM/master/screenshot.png)
+
 ## What is CLPM exactly?
 CLPM is a text-based terminal power menu with very few dependencies. It is written purely in BASH, which most UNIX or UNIX similar systems have.
 
